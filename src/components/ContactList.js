@@ -8,7 +8,7 @@ const ContactList = (props) =>{
             <p>{contact.firstName}</p>
             <p>{contact.lastName}</p>
             <p>{contact.phone}6</p>
-        </div>
+        </div> 
     </div>
     ));
 return(
